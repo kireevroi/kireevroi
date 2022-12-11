@@ -4,8 +4,15 @@
 
 ## 🌐 Socials:
 ### 📄 [Visit my website for CV/Portfolio](https://kireevroman.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kireevroman)
-<br><a href="https://stackoverflow.com/users/20749883/roman-kireev"><img src="https://stackoverflow.com/users/flair/20749883.png" width="208" height="58" alt="profile for Roman Kireev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Roman Kireev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://t.me/kireevroi">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" width="79" height="79" alt="Telegram">
+  </a>
+  <br>
+<a href="https://linkedin.com/in/kireevroman">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/291px-LinkedIn_Logo.svg.png?20170711102837" height="79" alt="Linked In">
+  </a>
+<br>
+<a href="https://stackoverflow.com/users/20749883/roman-kireev"><img src="https://stackoverflow.com/users/flair/20749883.png" width="208" height="58" alt="profile for Roman Kireev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Roman Kireev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ## 💿 Wakatime:
 | Command | Description |
