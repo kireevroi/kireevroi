@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kireevroman) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20749883/roman-kireev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kireevroman)
 <br><a href="https://stackoverflow.com/users/20749883/roman-kireev"><img src="https://stackoverflow.com/users/flair/20749883.png" width="208" height="58" alt="profile for Roman Kireev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Roman Kireev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ## 💿 Wakatime:
