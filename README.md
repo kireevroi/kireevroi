@@ -9,7 +9,7 @@
   </a>
   <br>
 <a href="https://linkedin.com/in/kireevroman">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/291px-LinkedIn_Logo.svg.png?20170711102837" height="79" alt="Linked In">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" height="79" alt="Linked In">
   </a>
 <br>
 <a href="https://stackoverflow.com/users/20749883/roman-kireev"><img src="https://stackoverflow.com/users/flair/20749883.png" width="208" height="58" alt="profile for Roman Kireev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Roman Kireev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
