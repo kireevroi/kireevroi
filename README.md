@@ -30,6 +30,9 @@
 
   ## 💰 Maybe you want to donate...?
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kireevroi) 
+  
+  
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) as well as some personal know-how :D -->
