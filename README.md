@@ -22,9 +22,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kireevroi&icon=4&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 Maybe you wnat to donate...?
+  ## 💰 Maybe you want to donate...?
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kireevroi) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) as well as some personal know-how :D -->
 
