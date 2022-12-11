@@ -1,13 +1,13 @@
 # 💫 About Me:
-Hi! I'm Roman.<br>I am currently freelancing in Telegram bot development.<br>Looking to collaborate on interesting pure C or Go projects, but may take on other projects if I find them interesting.<br><br>Currently working on an implementation of string.h and math.h, as well as my website backend, to host some of my projects.<br><br>I am really diving deep into Golang at the moment.<br><br>Feel free to ask me anything about my projects or your projects, if you need help :)<br><br><br>I really don't like heating food in the microwave, so I eat it cold... Bear that in mind 😄
+Hi! I'm Roman.<br>I am currently freelancing in Telegram bot development.<br>Looking to collaborate on interesting pure C or Go projects, but may take on other projects if I find them interesting.<br><br>Currently working on an implementation of string.h and math.h, as well as my website backend, to host some of my projects.<br><br>I am really diving deep into Golang at the moment.<br>Feel free to ask me anything about my projects or your projects, if you need help 🌟<br>I really don't like heating food in the microwave, so I eat it cold... Bear that in mind 😄
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kireevroman) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20749883/roman-kireev)
 <br><a href="https://stackoverflow.com/users/20749883/roman-kireev"><img src="https://stackoverflow.com/users/flair/20749883.png" width="208" height="58" alt="profile for Roman Kireev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Roman Kireev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-## Wakatime:
-cat n grep[![wakatime](https://wakatime.com/badge/github/kireevroi/catngrep.svg)](https://wakatime.com/badge/github/kireevroi/catngrep)
+## 💿 Wakatime:
+cat n grep [![wakatime](https://wakatime.com/badge/github/kireevroi/catngrep.svg)](https://wakatime.com/badge/github/kireevroi/catngrep)<br>
 string.h [![wakatime](https://wakatime.com/badge/github/cormacsi/s69_strings-.svg)](https://wakatime.com/badge/github/cormacsi/s69_strings-)
 
 # 💻 Tech Stack:
