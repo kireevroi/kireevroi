@@ -22,7 +22,7 @@ Hi! I'm Roman.<br>I am currently freelancing in Telegram bot development.<br>Loo
 ---
 [![](https://visitcount.itsvg.in/api?id=kireevroi&icon=4&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Maybe you wnat to donate...?
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kireevroi) 
 
   
