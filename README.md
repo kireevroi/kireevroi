@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Roman.<br>I am currently freelancing in Telegram bot development.<br>Looking to collaborate on interesting pure C or Go projects, but may take on other projects if I find them interesting.<br><br>Currently working on an implementation of string.h and math.h, as well as my website backend, to host some of my projects.<br><br>I am really diving deep into Golang at the moment.<br>Feel free to ask me anything about my projects or your projects, if you need help 🌟<br>I really don't like heating food in the microwave, so I eat it cold... Bear that in mind 😄
+### Hi! I'm Roman.<br>I am currently freelancing in Telegram bot development.<br>Looking to collaborate on interesting pure C or Go projects, but may take on other projects if I find them interesting.<br><br>Currently working on an implementation of string.h and math.h, as well as my website backend, to host some of my projects.<br><br>I am really diving deep into Golang at the moment.<br>Feel free to ask me anything about my projects or your projects, if you need help. 🌟<br>I really don't like heating food in the microwave, so I eat it cold... Bear that in mind. 😄
 
 
 ## 🌐 Socials:
