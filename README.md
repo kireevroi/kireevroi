@@ -7,7 +7,6 @@
 <a href="https://t.me/kireevroi">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" width="79" height="79" alt="Telegram">
   </a>
-  <br>
 <a href="https://linkedin.com/in/kireevroman">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" height="79" alt="Linked In">
   </a>
