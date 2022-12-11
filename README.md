@@ -4,10 +4,13 @@
 
 ## 🌐 Socials:
 ### 📄 [Visit my website for CV/Portfolio](https://kireevroman.com)
-<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kireevroman" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kg.linkedin.com/in/kireevroman?trk=profile-badge">Roman Kireev</a></div>
+
 <br>
 <a href="https://t.me/kireevroi">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" width="79" height="79" alt="Telegram">
+  </a>
+  <a href="https://linkedin.com/in/kireevroman">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" height="79" alt="Linked In">
   </a>
 <br>
 <a href="https://stackoverflow.com/users/20749883/roman-kireev"><img src="https://stackoverflow.com/users/flair/20749883.png" width="208" height="58" alt="profile for Roman Kireev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Roman Kireev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
