@@ -33,6 +33,9 @@
 
   ## 💰 Feel free to donate at:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kireevroi)
+  <a href="">
+    <img src="https://acdn.tinkoff.ru/static/documents/d6400f9d-63bb-4076-b887-7aa967baf8a9.svg" width="58" height="58">
+  </a>
 ### BTC: bc1q4ntazncre39zwvvqwyzqh7f06dm23069lz9m6c <br>
 ### ETH: 0x4b7Fb974ffB16dfB3f8bfAF250c87548274bf27e <br>
 ### TON: UQDMDWC4Qkj-gAf5Ze0UBTnrBodx-fpY7Ybjh8lec-S7Zjow <br>
