@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi! I'm Roman.<br>I am a Go Software developer.<br>Currently working on optimizing high load data transfer latencies in rpc protocols.<br> Feel free to ask any questions on my social media below:
+### Hi! I'm Roman.<br>I am a Go Software developer.<br>Currently working at IDT corp., so nothing new here yet, will keep you guys posted!<br> Feel free to ask any questions on my social media below:
 
 ## 🌐 Socials:
 ### 📄 [Visit my website for CV/Portfolio](https://kireevroman.com)
