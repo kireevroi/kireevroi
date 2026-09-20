@@ -1,18 +1,21 @@
 # 💫 About Me:
 ### Hi, I'm Roman.
 
-I'm a **platform engineer** — I build the layer other people ship on. Self-hosted infrastructure,
-internal services and the small Go libraries that hold them together: provisioning, secrets,
-logging, observability.
+I'm a **platform engineer** — I build the layer other people ship on: self-hosted services, and the
+packaging, release and observability work that turns a binary into something you can actually
+install, run and trust.
 
 Mostly **Go**, mostly **Linux**, mostly things that are supposed to keep running when nobody is watching.
-I like boring, reproducible systems, one-command bootstraps, and services that explain themselves
-when they break.
 
-**Currently building:**
-- 🏛️ [**athena**](https://github.com/kireevroi/athena) — an all-in-one self-hosted platform, and the modules it runs on: [**nox**](https://github.com/kireevroi/nox) (vault / secrets), [**argus**](https://github.com/kireevroi/argus) (logging), [**chronos**](https://github.com/kireevroi/chronos) (gRPC + REST service, protobuf & grpc-gateway)
-- 🌍 [**gaia**](https://github.com/kireevroi/gaia) — takes a fresh Ubuntu box to a provisioned, DNS-wired server in one run
-- 🎮 [**gourdian**](https://github.com/kireevroi/gourdian) — a live Dota 2 coach in Go: spoken tips, a transparent HUD and match reviews, built on Valve's Game State Integration
+## 🔨 What I'm building:
+### [**Gourdian**](https://github.com/kireevroi/gourdian) — a live coach for Dota 2
+It reads Valve's official Game State Integration feed and coaches you while you play: spoken tips on
+rune timings, unspent gold, stashed items and Roshan, a transparent click-through HUD over the game,
+personal targets built from your own match history, and an AI coach that reviews every match afterwards.
+
+- Go end to end — tray app, overlay renderer, local dashboard on `127.0.0.1`, its own stats store
+- Ships as a signed Windows installer and a Linux tarball / Arch package, with GitHub attestations on every release file
+- No memory reads, no injection — only the feed Valve publishes for third-party tools
 
 📍 Tbilisi, Georgia. Always up for a conversation about infra, Go or self-hosting — reach me below.
 
